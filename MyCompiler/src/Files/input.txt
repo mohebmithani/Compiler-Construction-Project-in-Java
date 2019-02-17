@@ -1,0 +1,11 @@
+class A
+{
+    
+}
+
+class AB extends A
+{
+    int a
+    int b:2.3
+}
+

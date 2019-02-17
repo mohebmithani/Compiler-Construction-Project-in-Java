@@ -1,0 +1,25 @@
+( CLASS , class , 1 )
+( ID , A , 1 )
+( TERMINATOR ,  , 1 )
+( BRACES_OPEN , { , 2 )
+( TERMINATOR ,  , 2 )
+( BRACES_CLOSE , } , 4 )
+( TERMINATOR ,  , 4 )
+( CLASS , class , 6 )
+( ID , AB , 6 )
+( EXTENDS , extends , 6 )
+( ID , A , 6 )
+( TERMINATOR ,  , 6 )
+( BRACES_OPEN , { , 7 )
+( TERMINATOR ,  , 7 )
+( DATA_TYPES , int , 8 )
+( ID , a , 8 )
+( TERMINATOR ,  , 8 )
+( DATA_TYPES , int , 9 )
+( ID , b , 9 )
+( AO , : , 9 )
+( FLOAT_CONST , 2.3 , 9 )
+( TERMINATOR ,  , 9 )
+( BRACES_CLOSE , } , 10 )
+( TERMINATOR ,  , 10 )
+( $ , $ , 12 )
