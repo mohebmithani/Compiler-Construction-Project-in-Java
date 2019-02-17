@@ -4,7 +4,7 @@ It takes source code from input.txt file and decides if it is syntactically and 
 it does the following:
 1) It takes source code from the input.txt file
 2) It separates the words to generate tokens.
-3) Its makes token of these words and save it into output.txt file hence completing first first phase(lexical) of compiler. The criteria of 
+3) Its makes token of these words and save it into output.txt file hence completing first phase(lexical) of compiler. The criteria of 
    token vary on every language. Details of my language will be in language.docx.
 4) After generating tokens it checks syntax as well as semantic. In syntax phase it checks the tokens according to my "40 page" CFG. Semantic
    and syntax are integrated. I've made three tables for semantic analysis(ClassTable, ClassAttribTable, FuncAttribTaable).
